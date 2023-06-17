@@ -96,10 +96,17 @@
 </p>
 
 <h3 align="left">Repositories:</h3>
+<!-- REPOSITORY-LIST:START -->
 - [Grid Stacks](github.com/orgs/grid-stacks) (70+ private repo)
+
 - [Bio Grids](github.com/orgs/bio-grids) (4+ private repo)
+
 - [Grid Momenta](github.com/orgs/grid-momenta) (10+ private repo)
+
 - [DHN Chandan](bitbucket.org/dhnchandan) (75+ private repo)
+<!-- REPOSITORY-LIST:END -->
+
+<h3 align="left">Github stats:</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhnchandan&show_icons=true&locale=en&layout=compact" alt="dhnchandan" /></p>
 
