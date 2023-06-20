@@ -9,6 +9,7 @@
 
 - 🔥🔥🔥 Where flow python and JavaScript blood through Chemical Engineering vessels
 - 🌱 In love with **Python and IoT**
+- 🎉 Proficient in **AWS Cloud** services
 - 📝 PhD Researcher on Computational Chemistry.
 - 💬 Ask me about **AWS, ReactJS, Python, Protein/Enzyme, Molecular Dynamics**
 - ⚡ Fun fact **Foodie and techie!**
