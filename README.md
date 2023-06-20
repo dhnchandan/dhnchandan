@@ -62,8 +62,10 @@
     <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
     <!--Postman-->
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+    <!--AWS CDK-->
+    <a href="https://aws.amazon.com/cdk" target="_blank"> <img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png" alt="AWS CDK" width="40" height="40"/> </a>
     <!--Serverless-->
-    <a href="https://aws.amazon.com/serverless" target="_blank"> <img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png" alt="AWS Serverless" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com/serverless" target="_blank"> <img src="https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2021/01/15/cdk-logo6-1260x476.png" alt="AWS Serverless" width="100" height="40"/> </a>
 </p>
 
 <h5 align="left">Database:</h5>
