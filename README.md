@@ -2,6 +2,8 @@
 
 <h3 align="center">JS/TS | Python | AWS | Serverless | Cloud | ReactJS</h3>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10576496.svg)](https://doi.org/10.5281/zenodo.10576496)
+
 <p align="left"> <a href="https://twitter.com/dhnchandan" target="blank"><img src="https://img.shields.io/twitter/follow/dhnchandan?logo=twitter&style=for-the-badge" alt="dhnchandan" /></a> </p>
 <img alt="npm Color-Magic" src="https://img.shields.io/npm/v/@fly-lab/color-magic?label=npm Color-Magic&style=for-the-badge">
 <img alt="npm tsconfig" src="https://img.shields.io/npm/v/@fly-lab/tsconfig?label=npm tsconfig&style=for-the-badge">
@@ -14,12 +16,24 @@
 - 💬 Ask me about **AWS, ReactJS, Python, Protein/Enzyme, Molecular Dynamics**
 - ⚡ Fun fact **Foodie and techie!**
 
-### <a href="https://dev.to/dhnchandan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhnchandan" height="30" width="40" /></a>Blog posts
+### <a href="https://dev.to/dhnchandan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhnchandan" height="30" width="40" /></a> Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 
 - [Color Magic - JS Library](https://dev.to/dhnchandan/color-magic-js-library-557d)
 
 <!-- BLOG-POST-LIST:END -->
+
+### <a href="https://hub.docker.com/u/firesimulations" target="blank"><img align="center" src="docker.png" alt="dhnchandan" height="30" width="40" /></a> Docker Hub
+
+<!-- DOCKER_IMAGE-LIST:START -->
+
+- [XVG Plotter](https://hub.docker.com/r/firesimulations/xvg-plotter)
+- [Gromacs](https://hub.docker.com/r/firesimulations/gromacs)
+- [FFTW](https://hub.docker.com/r/firesimulations/fftw)
+- [Molecular Docking](https://hub.docker.com/r/firesimulations/autodocking)
+
+<!-- DOCKER_IMAGE-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
