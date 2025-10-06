@@ -100,7 +100,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-### <a href="https://hub.docker.com/u/firesimulations" target="blank"><img align="center" src="docker.png" alt="dhnchandan" height="30" width="40" /></a> Docker Hub
+### <a href="https://hub.docker.com/u/firesimulations" target="blank"><img align="center" src="files/docker.png" alt="dhnchandan" height="30" width="40" /></a> Docker Hub
 
 <!-- DOCKER_IMAGE-LIST:START -->
 
