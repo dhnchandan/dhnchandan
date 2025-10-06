@@ -65,7 +65,13 @@
 
 <div align="center">
 
-### ⚡ Fun fact: I'm a foodie who loves to explore how technology can solve real-world problems!
+### 🌟 Fun Fact
+
+</div>
+
+<div align="center">
+
+> "I'm a foodie who loves to explore how technology can solve real-world problems! When I'm not coding or researching computational chemistry, you can find me trying out new recipes or exploring the intersection of food science and technology."
 
 </div>
 
@@ -314,18 +320,6 @@
     <!--Linux-->
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-
-<div align="center">
-
-### 🌟 Fun Fact
-
-</div>
-
-<div align="center">
-
-> "I'm a foodie who loves to explore how technology can solve real-world problems! When I'm not coding or researching computational chemistry, you can find me trying out new recipes or exploring the intersection of food science and technology."
-
-</div>
 
 <div align="center">
 
