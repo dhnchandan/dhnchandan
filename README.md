@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhnchandan?label=Follow&logo=twitter&style=for-the-badge&color=1DA1F2)](https://x.com/dhnchandan)
+[![X Follow](https://img.shields.io/twitter/follow/dhnchandan?label=Follow&logo=x&style=for-the-badge&color=1DA1F2)](https://x.com/dhnchandan)
 [![npm Color-Magic](https://img.shields.io/npm/v/@fly-lab/color-magic?label=Color-Magic&style=for-the-badge&color=CB3837)](https://www.npmjs.com/package/@fly-lab/color-magic)
 [![npm tsconfig](https://img.shields.io/npm/v/@fly-lab/tsconfig?label=TSCONFIG&style=for-the-badge&color=3178C6)](https://www.npmjs.com/package/@fly-lab/tsconfig)
 [![npm eslint-config](https://img.shields.io/npm/v/@fly-lab/eslint-config?label=ESLINT-CONFIG&style=for-the-badge&color=4B32C3)](https://www.npmjs.com/package/@fly-lab/eslint-config)
