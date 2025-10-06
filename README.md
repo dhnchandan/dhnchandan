@@ -420,7 +420,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ### 📊 Dynamic Language Stats
 
@@ -441,7 +441,7 @@
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 <div align="center">
 
