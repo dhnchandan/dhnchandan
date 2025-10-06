@@ -79,10 +79,10 @@
 
 | Certification | Badge | PDF | Certificate |
 |:---:|:---:|:---:|:---:|
-| **OCI Foundations** | [![OCI Foundations](https://img.shields.io/badge/Certified-OCI Foundations-blue?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7C3B021180FCB0A0FFE1896A4FE62024B59EA6FD621DF87E7CAA40A35BF80092) | [📄](./files/Oracle Cloud Infrastructure Foundations - Foundations Associate.pdf) | ![OCI Foundations](./files/Oracle Cloud Infrastructure Foundations - Foundations Associate.jpg "OCI Foundations") |
-| **OCI AI Foundations** | [![OCI AI Foundations](https://img.shields.io/badge/Certified-OCI AI Foundations-blue?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=61936673DD672A7FBB4595AF680338AB2F6006981B38591E7B8D1652B3CAA7E0) | [📄](./files/Oracle Cloud Infrastructure AI Foundations - Foundations Associate.pdf) | ![OCI AI Foundations](./files/Oracle Cloud Infrastructure AI Foundations - Foundations Associate.jpg "OCI AI Foundations") |
-| **Oracle Data Platform** | [![Oracle Data Platform](https://img.shields.io/badge/Certified-ODP Foundations-blue?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B0E0C0A690CBA0AB1EDE25817B739F9021EE488FF435725770DFCDD7515BA826) | [📄](./files/Oracle Data Platform Foundations - Foundations Associate.pdf) | ![Oracle Data Platform](./files/Oracle Data Platform Foundations - Foundations Associate.jpg "Oracle Data Platform") |
-| **Fusion AI Agent** | [![Fusion AI Agent](https://img.shields.io/badge/Certified-OFusion AI-blue?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E91D8F0FFB45C751511E69E5E3EDC4621EE4A83289869B8FABF5A6B70ADB9DCC) | [📄](./files/Oracle Fusion AI Agent Studio - Rel 1 - Foundations Associate.pdf) | ![Fusion AI Agent](./files/Oracle Fusion AI Agent Studio - Rel 1 - Foundations Associate.jpg "Fusion AI Agent") |
+| **OCI Foundations** | [![OCI Foundations](https://img.shields.io/badge/Certified-OCI%20Foundations-blue?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7C3B021180FCB0A0FFE1896A4FE62024B59EA6FD621DF87E7CAA40A35BF80092) | [📄](./files/Oracle%20Cloud%20Infrastructure%20Foundations%20-%20Foundations%20Associate.pdf) | ![OCI Foundations](./files/Oracle%20Cloud%20Infrastructure%20Foundations%20-%20Foundations%20Associate.jpg "OCI Foundations") |
+| **OCI AI Foundations** | [![OCI AI Foundations](https://img.shields.io/badge/Certified-OCI%20AI%20Foundations-blue?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=61936673DD672A7FBB4595AF680338AB2F6006981B38591E7B8D1652B3CAA7E0) | [📄](./files/Oracle%20Cloud%20Infrastructure%20AI%20Foundations%20-%20Foundations%20Associate.pdf) | ![OCI AI Foundations](./files/Oracle%20Cloud%20Infrastructure%20AI%20Foundations%20-%20Foundations%20Associate.jpg "OCI AI Foundations") |
+| **Oracle Data Platform** | [![Oracle Data Platform](https://img.shields.io/badge/Certified-ODP%20Foundations-blue?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B0E0C0A690CBA0AB1EDE25817B739F9021EE488FF435725770DFCDD7515BA826) | [📄](./files/Oracle%20Data%20Platform%20Foundations%20-%20Foundations%20Associate.pdf) | ![Oracle Data Platform](./files/Oracle%20Data%20Platform%20Foundations%20-%20Foundations%20Associate.jpg "Oracle Data Platform") |
+| **Fusion AI Agent** | [![Fusion AI Agent](https://img.shields.io/badge/Certified-OFusion%20AI-blue?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E91D8F0FFB45C751511E69E5E3EDC4621EE4A83289869B8FABF5A6B70ADB9DCC) | [📄](./files/Oracle%20Fusion%20AI%20Agent%20Studio%20-%20Rel%201%20-%20Foundations%20Associate.pdf) | ![Fusion AI Agent](./files/Oracle%20Fusion%20AI%20Agent%20Studio%20-%20Rel%201%20-%20Foundations%20Associate.jpg "Fusion AI Agent") |
 
 </div>
 
@@ -114,6 +114,11 @@
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bio-grids&repo=autodocking-utils&show_owner=true&theme=radical)](https://github.com/bio-grids/autodocking-utils)
+
+</div>
+
+<div align="center">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bio-grids&repo=xvg-plotter&show_owner=true&theme=radical)](https://github.com/bio-grids/xvg-plotter)
 
 </div>
@@ -121,6 +126,11 @@
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bio-grids&repo=gromacs-docker&show_owner=true&theme=radical)](https://github.com/bio-grids/gromacs-docker)
+
+</div>
+
+<div align="center">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bio-grids&repo=biolab_preparation&show_owner=true&theme=radical)](https://github.com/bio-grids/biolab_preparation)
 
 </div>
