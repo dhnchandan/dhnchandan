@@ -1,0 +1,7 @@
+https://github.com/bio-grids/autodocking-utils
+
+https://github.com/bio-grids/xvg-plotter
+
+https://github.com/bio-grids/gromacs-docker
+
+https://github.com/bio-grids/biolab_preparation
