@@ -9,12 +9,47 @@
 <img alt="npm tsconfig" src="https://img.shields.io/npm/v/@fly-lab/tsconfig?label=npm tsconfig&style=for-the-badge">
 <img alt="npm eslint-config" src="https://img.shields.io/npm/v/@fly-lab/eslint-config?label=npm eslint-config&style=for-the-badge">
 
+### At a Glance
 - 🔥🔥🔥 Where flow python and JavaScript blood through Chemical Engineering vessels
 - 🌱 In love with **Python and IoT**
 - 🎉 Proficient in **AWS Cloud** services
 - 📝 PhD Researcher on Computational Chemistry.
 - 💬 Ask me about **AWS, ReactJS, Python, Protein/Enzyme, Molecular Dynamics**
 - ⚡ Fun fact **Foodie and techie!**
+
+### Oracle Certifications
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h4>OCI Foundations</h4>
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=7C3B021180FCB0A0FFE1896A4FE62024B59EA6FD621DF87E7CAA40A35BF80092" target="_blank">
+        <img src="https://img.shields.io/badge/Certified-OCI Foundations-blue?style=for-the-badge&logo=oracle" alt="OCI Foundations Badge"/>
+      </a><br><br>
+      <a href="./files/Oracle Cloud Infrastructure Foundations - Foundations Associate.pdf" target="_blank">📄 PDF</a>
+    </td>
+    <td align="center" width="25%">
+      <h4>OCI AI Foundations</h4>
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=61936673DD672A7FBB4595AF680338AB2F6006981B38591E7B8D1652B3CAA7E0" target="_blank">
+        <img src="https://img.shields.io/badge/Certified-OCI AI Foundations-blue?style=for-the-badge&logo=oracle" alt="OCI AI Foundations Badge"/>
+      </a><br><br>
+      <a href="./files/Oracle Cloud Infrastructure AI Foundations - Foundations Associate.pdf" target="_blank">📄 PDF</a>
+    </td>
+    <td align="center" width="25%">
+      <h4>Oracle Data Platform</h4>
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B0E0C0A690CBA0AB1EDE25817B739F9021EE488FF435725770DFCDD7515BA826" target="_blank">
+        <img src="https://img.shields.io/badge/Certified-ODP Foundations-blue?style=for-the-badge&logo=oracle" alt="ODP Foundations Badge"/>
+      </a><br><br>
+      <a href="./files/Oracle Data Platform Foundations - Foundations Associate.pdf" target="_blank">📄 PDF</a>
+    </td>
+    <td align="center" width="25%">
+      <h4>Fusion AI Agent</h4>
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E91D8F0FFB45C751511E69E5E3EDC4621EE4A83289869B8FABF5A6B70ADB9DCC" target="_blank">
+        <img src="https://img.shields.io/badge/Certified-OFusion AI Agent-blue?style=for-the-badge&logo=oracle" alt="OFusion AI Agent Badge"/>
+      </a><br><br>
+      <a href="./files/Oracle Fusion AI Agent Studio - Rel 1 - Foundations Associate.pdf" target="_blank">📄 PDF</a>
+    </td>
+  </tr>
+</table>
 
 ### <a href="https://dev.to/dhnchandan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhnchandan" height="30" width="40" /></a> Blog posts
 
