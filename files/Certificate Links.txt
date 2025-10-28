@@ -1,7 +1,6 @@
 Oracle Cloud Infrastructure 2025 Certified Foundations Associate
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=7C3B021180FCB0A0FFE1896A4FE62024B59EA6FD621DF87E7CAA40A35BF80092
 
-
 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=61936673DD672A7FBB4595AF680338AB2F6006981B38591E7B8D1652B3CAA7E0
 
@@ -11,5 +10,8 @@ https://catalog-education.oracle.com/ords/certview/sharebadge?id=B0E0C0A690CBA0A
 Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=E91D8F0FFB45C751511E69E5E3EDC4621EE4A83289869B8FABF5A6B70ADB9DCC 
 
+Oracle Fusion Cloud Applications ERP Process Essentials Certified - Rel 1
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=5AA4D3C6B171D136A39B102265EAD940B0AE686E7BCF97FD4031134195668DC5 
 
-
+Oracle Fusion Cloud Applications HCM Process Essentials Certified - Rel 1
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=91841B1484E9C3ABB086776E793B2308636AD2CF07A3A6B93E3CE7FB6C4CC0CF 
