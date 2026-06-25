@@ -2,7 +2,7 @@
 
 # Hi there, I'm DHN Chandan 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Cloud+Architect;Computational+Chemistry+Researcher;AWS+%26+Oracle+Cloud+Certified;Python+%7C+JavaScript+%7C+TypeScript;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Cloud+%26+Edge+Engineer;AWS+%7C+OCI+%7C+Cloudflare+Practitioner;Computational+Chemistry+Researcher;Terraform+%7C+CI%2FCD+%7C+Serverless+%7C+AI;Building+Production-Grade+Cloud+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -44,11 +44,12 @@
 
 </div>
 
+- 💻 Full-stack developer passionate about **Python, JavaScript/TypeScript, cloud, edge, and AI systems**
 - 🔬 **Researcher** specializing in Computational Chemistry and Molecular Dynamics
-- 💻 Full-stack developer passionate about **Python, JavaScript/TypeScript, and Cloud technologies**
-- ☁️ **AWS & Oracle Cloud Certified Professional** with expertise in serverless architectures
+- ☁️ **AWS & Oracle Cloud Certified Professional** with hands-on production experience across **AWS, OCI, and Cloudflare**
+- ⚡ Building serverless, containerized, and edge-native applications with **Terraform, CI/CD, Workers, Fargate, Amplify, and CloudFront**
 - 🧬 Specializing in **Protein/Enzyme research** and computational modeling
-- 🌐 Building modern web applications with **ReactJS** and cloud infrastructure
+- 🌐 Building modern web applications with **ReactJS**, secure cloud infrastructure, databases, storage, and DevOps automation
 - 🔬 Bridging **Chemical Engineering** with cutting-edge **IoT & AI technologies**
 - 🎯 Always exploring the intersection of **science and technology**
 
@@ -84,11 +85,101 @@
 
 <div align="center">
 
+### ☁️ Cloud, DevOps & Edge Engineering
+
+</div>
+
+I work hands-on across **AWS, Oracle Cloud Infrastructure (OCI), and Cloudflare** to deploy, automate, secure, monitor, and operate production full-stack applications. My cloud work spans traditional infrastructure, serverless applications, container workloads, edge computing, AI integrations, databases, storage, secure media delivery, monitoring, billing, and day-to-day production operations.
+
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+
+**🔶 AWS**
+
+Full-stack, serverless, containers, AI, secure media delivery, DynamoDB, Amplify, Fargate, Bedrock, S3, CloudFront, IAM, CloudWatch, and CI/CD.
+
+</td>
+<td width="33%">
+
+**🔴 Oracle Cloud Infrastructure**
+
+Production infrastructure, Linux/Windows servers, Terraform, OCI DevOps pipelines, databases, buckets, IAM, Vault, monitoring, billing, security, and operations.
+
+</td>
+<td width="33%">
+
+**🟠 Cloudflare**
+
+Edge-native apps, Workers, Durable Objects, Workflows, D1, R2, KV, Queues, Containers, Browser Rendering, AI Gateway, Workers AI, Vectorize, DNS, CDN, and WAF.
+
+</td>
+</tr>
+</table>
+</div>
+
+<details open>
+<summary><b>🔴 Oracle Cloud Infrastructure Experience</b></summary>
+
+- Manage and deploy production **Linux and Windows servers** on OCI Compute.
+- Build complete **OCI CI/CD pipelines** for full-stack application delivery.
+- Maintain OCI infrastructure using **Terraform/IaC** and OCI Console workflows, including manually managed resources when projects require it.
+- Work with **OCI Resource Manager**, VCNs, subnets, compute instances, security rules, Object Storage buckets, databases, IAM policies, vaults, secrets, and DevOps resources.
+- Maintain **Oracle Database, MySQL HeatWave, PostgreSQL**, database backups, database networking, and operational access.
+- Manage **Object Storage buckets** for application media, backups, migrations, and storage workflows.
+- Configure **IAM policies, compartments, Vault, keys, secrets, MFA, endpoint security, and least-privilege access**.
+- Install and maintain production server tools such as **Pulseway, Duo MFA, Bitdefender**, monitoring agents, SSH/RDP access, backups, and server hardening.
+- Monitor **billing, cost analysis, alarms, resource explorer, service usage, backups, resource usage, and operational health**.
+
+</details>
+
+<details open>
+<summary><b>🔶 AWS Cloud & DevOps Experience</b></summary>
+
+- Deploy and operate full-stack applications using **AWS Amplify, S3, CloudFront, Route 53, ACM, custom domains, and CI/CD workflows**.
+- Design application data models and backends with **Amazon DynamoDB**.
+- Build serverless and container-based backends with **Amazon ECS, AWS Fargate, Lambda, and API-driven architectures**.
+- Work with **Amazon Bedrock** for generative AI applications, agents, knowledge bases, model integrations, and RAG-style workflows.
+- Store private media and files in **Amazon S3** with restricted public access.
+- Securely serve S3 videos and private content through **Amazon CloudFront**, using signed URLs/cookies, Origin Access Control, cache behavior, and edge functions.
+- Configure **IAM roles, policies, access control, least-privilege security, CloudWatch logging, metrics, alarms, and operational visibility**.
+- Handle **DNS, SSL/TLS, CDN caching, deployment automation, monitoring, cost tracking, resource usage review, and production troubleshooting**.
+
+</details>
+
+<details open>
+<summary><b>🟠 Cloudflare Developer Platform Experience</b></summary>
+
+- Build serverless APIs and full-stack edge applications using **Cloudflare Workers, Pages, Hono, and edge functions**.
+- Use **Durable Objects** for stateful serverless systems, WebSockets, real-time coordination, sessions, and distributed state.
+- Orchestrate reliable background work with **Cloudflare Workflows** and async processing with **Cloudflare Queues**.
+- Manage relational and storage layers with **D1 Database, R2 buckets, Workers KV, and Vectorize**.
+- Use **Cloudflare Containers** for custom runtimes, heavier compute, document processing, browser tools, and automation workloads.
+- Run browser automation, screenshots, testing, and web-rendering workflows with **Browser Rendering / Browser Run**.
+- Build AI-enabled applications with **Workers AI, AI Gateway, Vectorize, embeddings, semantic search, and RAG-style architectures**.
+- Configure **domains, DNS, SSL/TLS, CDN, caching, redirects, firewall rules, WAF, security settings, logs, performance tuning, and production deployments**.
+
+</details>
+
+<div align="center">
+
+#### Cloud & Edge Stack
+
+`AWS` `OCI` `Cloudflare` `Terraform` `CI/CD` `Docker` `Linux Server` `Windows Server`  
+`DynamoDB` `Amplify` `ECS` `Fargate` `Bedrock` `S3` `CloudFront` `Lambda@Edge` `CloudWatch` `IAM`  
+`OCI Compute` `OCI DevOps` `Resource Manager` `Object Storage` `Vault` `Oracle Database` `MySQL HeatWave` `PostgreSQL`  
+`Cloudflare Workers` `Durable Objects` `Workflows` `D1` `R2` `KV` `Queues` `Containers` `Browser Rendering` `Workers AI` `AI Gateway` `Vectorize`
+
+</div>
+
+<div align="center">
+
 ### 💬 Get in touch:
 
 </div>
 
-- 💼 Ask me about **AWS, ReactJS, Python, Protein/Enzyme, Molecular Dynamics**
+- 💼 Ask me about **AWS, OCI, Cloudflare, ReactJS, Python, Protein/Enzyme, Molecular Dynamics**
 - 🐦 Connect with me on **[Twitter](https://x.com/dhnchandan)**
 - 💭 Discuss research on **[Dev.to](https://dev.to/dhnchandan)**
 - 📧 Reach me at **php.chandan@gmail.com** (or via LinkedIn)
@@ -205,6 +296,7 @@
 
 - **Published Research**: Computational Chemistry & Molecular Dynamics studies with **[DOI: 10.5281/zenodo.10576496](https://doi.org/10.5281/zenodo.10576496)**
 - **Open Source Contributions**: Maintainer of popular npm packages including **[@fly-lab/color-magic](https://www.npmjs.com/package/@fly-lab/color-magic)**
+- **Cloud & Edge Engineering**: Production experience across AWS, OCI, and Cloudflare with Terraform, CI/CD, serverless, containers, secure delivery, databases, monitoring, and AI workloads
 - **Certified Professional**: Oracle Cloud Infrastructure 2025 Certified Foundations Associate & AI Foundations Associate
 - **Docker Hub**: Featured Docker images with **Gromacs, XVG Plotter, Molecular Docking** tools for computational chemistry
 
@@ -265,10 +357,15 @@
 #### ☁️ Cloud & DevOps
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://cloud.oracle.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
 [![Serverless](https://img.shields.io/badge/Serverless-F54D27?style=for-the-badge&logo=serverless&logoColor=white)](https://serverless.com/)
+[![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)](https://aws.amazon.com/ecs/)
+[![Amazon CloudFront](https://img.shields.io/badge/Amazon_CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudfront/)
+[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)](https://workers.cloudflare.com/)
 
 #### 🔧 Tools & Others
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
